@@ -1,6 +1,6 @@
 # Dermstore parser
 
-This package allows you to parse data from dermstore.com (just a single page).
+This package allows you to parse data from [dermstore.com](https://www.dermstore.com/) (just a single page).
 ## Usage
 1. Clone this repo to your local machine
 2. Install all packages from requirements.txt
